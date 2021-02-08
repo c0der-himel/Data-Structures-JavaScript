@@ -1,2 +1,2 @@
 # Data-Structures-JavaScript
-Implementation of some useful Data Structures in JavaScript
+Implementation of some important Data Structures using JavaScript
